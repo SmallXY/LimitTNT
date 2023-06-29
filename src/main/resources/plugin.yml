@@ -1,0 +1,4 @@
+name: LimitTNT
+version: '${version}'
+main: cn.cyanbukkit.limittnt.LimitTNT
+api-version: 1.19
